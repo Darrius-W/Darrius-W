@@ -12,10 +12,10 @@ I'm a full stack software developer passionate about building secure, scalable w
 
 ### 🚀 Projects
 Here are a few things I've built:
-- 🔐 [Authentication System](https://github.com/Darrius-W/Auth-Python) – Token-based authentication with secure session handling
 - 💬 [Real-Time Chat App](https://github.com/Darrius-W/Realtime-chat-room-app) – Messaging system using WebSockets
-- 🎮 [Tic-Tac-Toe](https://github.com/Darrius-W/Tic-Tac-Toe) – Classic game with a simple web interface
 - 🌐 [Portfolio Website](https://github.com/Darrius-W/MyPortfolio) – My developer portfolio
+- 🔐 [Authentication System](https://github.com/Darrius-W/Auth-Python) – Token-based authentication with secure session handling
+- 🎮 [Tic-Tac-Toe](https://github.com/Darrius-W/Tic-Tac-Toe) – Classic game with a simple web interface
 
 ---
 
