@@ -7,6 +7,7 @@ I'm a full stack software developer passionate about building secure, scalable w
 - 🔐 Enthusiastic about **web security** and clean API architecture
 - 📚 Currently studying the **OWASP Top 10** and exploring secure JWT implementation
 - 🧠 Lifelong learner committed to improving my craft
+- 🎬 Fun Fact: I’m also a big fan of horror movies — I appreciate a good thrill, whether it’s in code or on screen
 
 ---
 
