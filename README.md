@@ -16,7 +16,7 @@ Here are a few things I've built:
 - 💬 [Real-Time Chat App](https://github.com/Darrius-W/Realtime-chat-room-app) – Messaging system using WebSockets
 - 🌐 [Portfolio Website](https://github.com/Darrius-W/MyPortfolio) – My developer portfolio
 - 🌿 [Landscaping Quote Manager](https://github.com/helloalexpeterson/467-Quote-Project) – Full-stack system for generating and managing custom service quotes with role-based access
-- 🔐 [Authentication System](https://github.com/Darrius-W/Auth-Python) – Token-based authentication with secure session handling
+- 🔐 [FastAPI-React-Auth](https://github.com/Darrius-W/FastAPI-React-Auth) – Token-based authentication with secure session handling
 - 🎮 [Tic-Tac-Toe](https://github.com/Darrius-W/Tic-Tac-Toe) – Classic game with a simple web interface
 
 ---
